@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Rajiv
 
-<!--
-**Rajiv-11-g/Rajiv-11-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Machine Learning Engineer  
+🧠 Focus: Computer Vision, Applied ML, Urban Data  
+📍 Interested in city-scale AI & real-world ML systems
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, NumPy, Pandas
+- PyTorch, scikit-learn
+- Computer Vision (CNNs, Transfer Learning)
+- Git, GitHub, Jupyter
+- Data Analysis & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🏠 **Building Damage Detection (CV)**  
+  Classifies damaged vs undamaged buildings using ResNet18.
+
+- 📊 **Detroit COVID Data Analysis**  
+  Time-series analysis & insights on city-level data.
+
+- 🚗 **EV Market Analysis**  
+  Exploratory data analysis & trends.
+
+## 🎯 Currently Learning
+- Deep Learning
+- MLOps basics
+- Model deployment
+
+📫 Reach me: (email / LinkedIn later)
+
