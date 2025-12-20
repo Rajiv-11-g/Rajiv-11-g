@@ -26,5 +26,6 @@
 - MLOps basics
 - Model deployment
 
-📫 Reach me: (email / LinkedIn later)
+📫 Reach me: Rajiv rao
+
 
