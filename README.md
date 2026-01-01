@@ -23,7 +23,7 @@
 
 ## 🎯 Currently Learning
 - Deep Learning
-- MLOps basics
+- Data analyst
 - Model deployment
 
 📫 Reach me: Rajiv rao
