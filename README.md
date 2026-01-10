@@ -27,5 +27,6 @@
 - Model deployment
 
 📫 Reach me: Rajiv rao
+raorajiv69@gmail.com
 
 
